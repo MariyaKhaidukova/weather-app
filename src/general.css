@@ -5,7 +5,7 @@ body {
     background-size: cover;
     height: 100vh;
     font-size: 14px;
-    padding-bottom: 50px;
+    padding-bottom: 500px;
     overflow-x: hidden;
   }
   
@@ -25,5 +25,5 @@ body {
   
   input {
     margin: 0;
-    padding: 0;
+    padding: 10px;
   }

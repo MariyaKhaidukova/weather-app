@@ -24,6 +24,7 @@
     border-radius: 42px;
     width: 190px;
     border: 3px outset white;
+    margin-right: 8px;
 }
 
 .weatherItem__date {
